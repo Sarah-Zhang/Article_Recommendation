@@ -21,9 +21,5 @@ Clicking on one of those articles takes you to an article page that shows the te
 <img src=figures/article2.png width=450>
 
 
-## Deliverable
-
-The article recommender is held at: http://54.202.239.183:5000/
-
 
 
